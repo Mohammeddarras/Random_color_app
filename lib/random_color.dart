@@ -29,6 +29,7 @@ class _RandomScreenState extends State<RandomScreen> {
     colorApp = randomColor.first;
   }
 
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
